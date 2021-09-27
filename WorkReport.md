@@ -11,7 +11,7 @@ IM-INC - Johannes van der Merwe's edits to GayPages.com/~co.za
 
 11:47 Created Javascript 
 
-JS```
+```JS
 <script>
 const refreshedElement = document.querySelectorAll('#reload');
 const bannerBox = document.querySelector(".g-dyn");
